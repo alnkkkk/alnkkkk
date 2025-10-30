@@ -1,16 +1,33 @@
-## Hi there 👋
+ Привет, я Алина 👋
 
-<!--
-**alnkkkk/alnkkkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я студентка из Москвы, увлекаюсь программированием и историей. Мне нравится создавать проекты, в ходе которых можно узнать что-то нового.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Мои направления👩‍🏫
+- Python 
+- История 
+
+
+
+## Мой проект
+- https://github.com/alnkkkk/hello_git.git
+- https://github.com/alnkkkk/all.git
+
+
+
+
+## Навыки и инструменты🐍
+- Языки: Python, SQL
+- Инструменты: Git, GitHub, Jupyter Notebook
+- Библиотеки: NumPy, Pandas, Matplotlib, Scikit-learn
+
+
+
+##  Контакты
+- GitHub: [README.md] https://github.com/alnkkkk
+- Email: alila220206@mail.ru
+
+
+ Буду рада новым проектам и интересным задачам!✨✨✨✨
+
